@@ -1,4 +1,3 @@
-# IrisAbschlussprojekt
 # -*- coding: utf-8 -*-
 """
 Created on Wed Mar  7 12:49:04 2018
@@ -66,3 +65,8 @@ def Bewertung2():
 Bewertung2()
 
 print(model2.predict(Z))
+
+
+
+
+

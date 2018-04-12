@@ -1,6 +1,6 @@
 Iris Machine Learning
 
-von Maximilian Garaycochea
+von Maximilian Garaycochea (maximiliangaraycochea@hotmail.de)
 
 Das Abschlussprojekt verwendet den Iris Datensatz, welcher 150 Iris Pflanzen und Ihre jeweiligen Merkmale (Blütenlänge, -breite etc.) enthält.
 Nachdem der Datensatz durchmischt und in Testdaten und Trainingsdaten aufgeteilt wurde, verwendet das Programm zwei verschiedene Modellierungsverfahren

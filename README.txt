@@ -1,4 +1,4 @@
-Iris Mashine Learning
+Iris Machine Learning
 
 von Maximilian Garaycochea (maximiliangaraycochea@hotmail.de)
 
